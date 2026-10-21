@@ -1,0 +1,6 @@
+# Build output
+/pacman
+
+# Object files / temp
+*.o
+*.obj
